@@ -26,11 +26,11 @@ This project implements a secure communication system featuring confidentiality,
 * Cryptanalysis of RSA short message encryption.
 
 **Usage**
-1. Run ./LAK to start the menu.
+1. Run `./LAK` to start the menu.
 2. Choose the desired operational mode:
-  Confidentiality Only (DES encryption)
-  Authentication Only (RSA digital signatures)
-  Confidentiality & Authentication
-  RSA Cryptanalysis
-  Image Encryption
+- Confidentiality Only (DES encryption)
+- Authentication Only (RSA digital signatures)
+- Confidentiality & Authentication
+- RSA Cryptanalysis
+- Image Encryption
 3. Follow the on-screen prompts to enter messages, keys, or files as needed.
