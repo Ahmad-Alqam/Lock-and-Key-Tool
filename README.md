@@ -13,9 +13,7 @@ This project implements a secure communication system featuring confidentiality,
 
 **Compilation Instructions**
 1. Compile DES implementation:
-   `bash
-    gcc -c DES.c -o DES.o
-    `
+    `gcc -c DES.c -o DES.o`
 2. Compile main program with DES object file:
    `gcc Lock_and_Key.c DES.o -o LAK -lcrypto -lm`
 3. Run the tool:
